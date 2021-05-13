@@ -39,9 +39,6 @@
     },
     "tech": {
       "type": "string"
-    },
-    "repo": {
-      "type": "string"
     }
   }
 }
